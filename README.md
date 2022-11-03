@@ -2,7 +2,7 @@
 ## Je suis un futur developpeur
 <link stylesheet="style.css">
 
-<p align="center">
+
 * Mes compétences
     * Persévérant
     * Passionné et investi
