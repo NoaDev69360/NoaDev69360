@@ -1,5 +1,5 @@
 ### C'est Noa 👋
-<h1>Je suis un futur developpeur<h1>
+## Je suis un futur developpeur
 
 * Mes compétences
     * Persévérant
