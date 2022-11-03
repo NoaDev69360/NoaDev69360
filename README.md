@@ -1,5 +1,5 @@
 ### C'est Noa 👋
-## Je suis un futur developpeur
+<h1>Je suis un futur developpeur<h1>
 
 * Mes compétences
     * Persévérant
@@ -7,4 +7,4 @@
     * Créatif
 
 <p>Je suis persévérant et passionné de programmation, je vous laisserais voir sur mon compte github mon CV dynamique pour en savoir plus sur mon profil<p>
-<img src="avatar Noa.png">
+<img src="avatar-noa">
